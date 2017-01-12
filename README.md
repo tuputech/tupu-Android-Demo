@@ -43,7 +43,7 @@ gpuImage.setPreviewResultCallback(Activity.this);
 ICamera mICamera = new ICamera();
 //设置相机属性,旋转角度
 gpuImage.setUpCamera(mCamera, degree);
-//关键点回调,返回关键点数组,预览图像宽高
+//关键点回调,返回关键点数组和预览图像宽高
 @Override
 public void getLandMarkResult(float[] points, int width, int height) {
 
