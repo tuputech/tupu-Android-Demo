@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a94d3ea3aaff94fc9736eea142e36ec2205c28d5">
+        <dex dex="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3f32d322f4c97e6c7c546d2a57dde541b434ab30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77074115bd318d394512caeb219bba1ca4d76e59">
+        <dex dex="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7da0ab4d5fbd351f4312bd492d2f16fa372d11a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/soap/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_b18881bc963a185fb9469db549f2532fc816d2a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/src/main/jniLibs/tupufacesdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c8c3332ff4a72bdc5e819d9b3ef8f3650c795f">
+        <dex dex="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/tupufacesdk_c98ee94085171e1fb97d61df2360ef76147a4770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/soap/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/soap/Documents/tupu-Android-Demo/tupu-Android-Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_0ba634e8a6bf9e678b026590a563393dc2ee13d1/classes.dex" />
+    </item>
+
+</items>
