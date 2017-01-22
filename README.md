@@ -27,8 +27,8 @@ FaceLandMark.setFacenessThreshold(faceness);
 //实例化 GPUImage
 GPUImage gpuImage = new GPUImage(Activity.this);
 
-//实例化美颜滤镜
-MagicBeautyFilter beautifyFilter = new MagicBeautyFilter();
+//实例化美颜滤镜,设置初始化美颜程度
+MagicBeautyFilter beautifyFilter = new MagicBeautyFilter(80);
 //设置美颜程度(0-100),数值越大美颜越明显
 beautyFilter.setBeautyLevel(75)
 //设置美颜滤镜到 GPUImage
