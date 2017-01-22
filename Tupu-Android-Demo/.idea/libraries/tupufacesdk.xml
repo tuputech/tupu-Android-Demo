@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tupufacesdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/tupufacesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
