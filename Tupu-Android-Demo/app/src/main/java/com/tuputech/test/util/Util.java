@@ -9,12 +9,14 @@ import java.nio.FloatBuffer;
  */
 
 public class Util {
-    //测试地址
-    public static String AUTH_URL = "http://183.60.177.232:8585/v1/app/auth";
+
     //请找我们申请
     public static String TP_APP_KEY  = "";
 
     public static String TP_APP_SECRET  ="";
+
+    //测试地址
+    public static String AUTH_URL = "http://api.open.tuputech.com/v1/app/auth/"+TP_APP_KEY;
 
 
     // 定义一个工具方法，将float[]数组转换为OpenGL ES所需的FloatBuffer
