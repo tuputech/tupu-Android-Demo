@@ -11,9 +11,9 @@ import java.nio.FloatBuffer;
 public class Util {
 
     //请找我们申请
-    public static String TP_APP_KEY  = "";
+    public static String TP_APP_KEY  = "07e60875de60a94c954b982685fe80f0";
 
-    public static String TP_APP_SECRET  ="";
+    public static String TP_APP_SECRET  ="b4b7001e2202266a3873436fc1714d135aeb6069";
 
     //测试地址
     public static String AUTH_URL = "http://api.open.tuputech.com/v1/app/auth/"+TP_APP_KEY;
